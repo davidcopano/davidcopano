@@ -1,5 +1,5 @@
 ## Hi there 👋, my name is David
-### I am a web and app developer.
+### I am a web and app developer
 I am 25 years old and I am a web and application developer. Besides programming, I like video games, watching movies or series and enjoying free time with my friends and family.
 
 Skills: **HTML / CSS / JS / Ionic & Capacitor & Cordova / PHP / Laravel / MySQL**
@@ -10,8 +10,6 @@ Skills: **HTML / CSS / JS / Ionic & Capacitor & Cordova / PHP / Laravel / MySQL*
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/davidcopano)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/david-jesús-copano-jiménez-16b1a1121/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/davidcopano/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/d_copano)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://dcopano.xyz)  
-
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=davidcopano)](https://github.com/ryo-ma/github-profile-trophy)
 
