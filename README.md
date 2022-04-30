@@ -34,6 +34,6 @@ Skills: **HTML / CSS / JS / Ionic & Capacitor & Cordova / PHP / Laravel / MySQL*
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=davidcopano&show_icons=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/davidcopano)  
+![Metrics](/github-metrics.svg)
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=davidcopano)  
