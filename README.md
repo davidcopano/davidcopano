@@ -1,6 +1,6 @@
 ## Hi there 👋, my name is David
 ### I am a web and app developer
-I am 27 years old and I am a web and application developer. Besides programming, I like video games, watching movies or series and enjoying free time with my friends and family.
+I am 28 years old and I am a web and application developer. Besides programming, I like video games, watching movies or series and enjoying free time with my friends and family.
 
 Skills: **HTML / CSS / JS / Ionic & Capacitor & Cordova / PHP / Laravel / MySQL**
 
