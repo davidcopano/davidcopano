@@ -5,7 +5,6 @@ I am 29 years old and I am a web and application developer. Besides programming,
 Skills: **HTML / CSS / JS / Ionic & Capacitor & Cordova / PHP / Laravel / MySQL**
 
 - 🔭 I’m currently working on **Xerintel Internet Technologies S.L** 
-- 🌱 I’m currently learning **Flutter and Dart** 
 - 📫 How to reach me: davidcopano96@gmail.com 
 
 <div id="badges">
