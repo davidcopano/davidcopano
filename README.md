@@ -27,7 +27,6 @@ Skills: **HTML / CSS / JS / Ionic & Capacitor & Cordova / PHP / Laravel / MySQL*
 
 <br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=davidcopano)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidcopano)](https://github.com/anuraghazra/github-readme-stats)
 
